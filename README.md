@@ -1,6 +1,6 @@
 # ZS_YoungDataScientistChallenge2017
 ### About 
-The third edition of the pan India Annual Data Science Challenge organised by ZS Associates, meant for 3rd and 4th year college students, this event aimed at providing us with a sneak peak into the kind of work done at ZS. 
+The third edition of the pan India <a href = 'https://www.hackerearth.com/challenge/competitive/zs-young-data-scientist-challenge-2017/'>Annual Data Science Challenge</a> organised by ZS Associates, meant for 3rd and 4th year college students, this event aimed at providing us with a sneak peak into the kind of work done at ZS. 
 
 ### Result
 Out of the roughly <b>600</b> students who had participated, I secured the rank of <b>16</b>.
